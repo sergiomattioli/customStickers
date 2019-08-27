@@ -1,0 +1,22 @@
+[
+   {
+      "id":"1",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/actores/1.png",
+      "name":"Actores"
+   },
+   {
+	  "id":"2",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/animales/1.png",
+      "name":"Animales"
+   },
+   {
+      "id":"3",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/perros/1.png",
+      "name":"Perros"
+   },
+   {
+      "id":"4",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/trump/1.png",
+      "name":"Trump"
+   }
+]
