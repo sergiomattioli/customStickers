@@ -1,0 +1,28 @@
+[
+   {
+      "id":"1",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/actores/1.png",
+      "name":"actor1"
+   },
+   {
+      "id":"2",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/actores/2.png",
+      "name":"actor2"
+   },
+   {
+	  "id":"3",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/actores/3.png",
+      "name":"actor3"
+   },
+   {
+      "id":"4",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/actores/4.png",
+      "name":"actor4"
+   },
+   {
+      "id":"5",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/actores/5.png",
+      "name":"actor5"
+   }
+   
+]
