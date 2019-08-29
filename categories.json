@@ -1,22 +1,28 @@
 [
    {
-      "id":"1",
+      "id":"10",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/actores/1.png",
       "name":"Actores"
    },
    {
-	  "id":"2",
+      "id":"20",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/love/amor1.png",
+      "name":"Amor"
+   },
+   {
+	  "id":"30",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/animales/1.png",
       "name":"Animales"
    },
    {
-      "id":"3",
+      "id":"40",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/perros/1.png",
       "name":"Perros"
    },
    {
-      "id":"4",
+      "id":"50",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/trump/1.png",
       "name":"Trump"
    }
+   
 ]
