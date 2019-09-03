@@ -6,21 +6,51 @@
    },
    {
       "id":"20",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/love/amor1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/love/1.png",
       "name":"Amor"
    },
    {
-	  "id":"30",
+      "id":"30",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/animales/1.png",
       "name":"Animales"
    },
    {
-      "id":"40",
+	  "id":"40",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/gatos/1.png",
+      "name":"gatos"
+   },
+   {
+	  "id":"50",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/memes/1.png",
+      "name":"memes"
+   },
+   {
+	  "id":"60",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/movies/1.png",
+      "name":"movies"
+   },
+      {
+	  "id":"70",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/music/1.png",
+      "name":"music"
+   },
+   {
+      "id":"80",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/perros/1.png",
       "name":"Perros"
    },
    {
-      "id":"50",
+      "id":"90",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/politics/1.png",
+      "name":"Politics"
+   },
+      {
+      "id":"100",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/series/1.png",
+      "name":"Series"
+   },
+   {
+      "id":"110",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/trump/1.png",
       "name":"Trump"
    }
