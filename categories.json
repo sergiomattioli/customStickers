@@ -22,17 +22,17 @@
    {
 	  "id":"50",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/memes/1.png",
-      "name":"memes"
+      "name":"Memes"
    },
    {
 	  "id":"60",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/movies/1.png",
-      "name":"movies"
+      "name":"Movies"
    },
       {
 	  "id":"70",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/music/1.png",
-      "name":"music"
+      "name":"Music"
    },
    {
       "id":"80",
