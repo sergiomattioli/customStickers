@@ -189,19 +189,19 @@
       "id":"240",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/series1/1.png",
       "name":"Series 1",
-      "visible":true
+      "visible":false
    },
    {
       "id":"250",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/series2/1.png",
       "name":"Series 2",
-      "visible":true
+      "visible":false
    },
    {
       "id":"260",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/series3/1.png",
       "name":"Series 3",
-      "visible":true
+      "visible":false
    },
       {
       "id":"270",
@@ -218,11 +218,13 @@
    {
       "id":"290",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/trump/1.png",
-      "name":"Trump"
+      "name":"Trump",
+      "visible":false
    },
    {
       "id":"300",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/youtubers/1.png",
-      "name":"Youtubers"
+      "name":"Youtubers",
+      "visible":false
    }
 ]
