@@ -21,13 +21,13 @@
       "id":"40",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/clash1/1.png",
       "name":"Clash 1",
-      "visible":false
+      "visible":true
    },
    {
       "id":"50",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/clash2/1.png",
       "name":"Clash 2",
-      "visible":false
+      "visible":true
    },
    {
       "id":"60",
@@ -45,37 +45,37 @@
       "id":"80",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/dibujos1/1.png",
       "name":"Dibujos 1",
-      "visible":false
+      "visible":true
    },
    {
       "id":"81",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/dibujos2/1.png",
       "name":"Dibujos 2",
-      "visible":false
+      "visible":true
    },
    {
       "id":"82",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/dibujos3/1.png",
       "name":"Dibujos 3",   
-      "visible":false
+      "visible":true
    },
    {
       "id":"83",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/dibujos4/1.png",
       "name":"Dibujos 4",
-      "visible":false
+      "visible":true
    },
    {
       "id":"84",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/dibujos5/1.png",
       "name":"Dibujos 5",
-      "visible":false
+      "visible":true
    },
    {
       "id":"85",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/dibujos6/1.png",
       "name":"Dibujos 6",
-      "visible":false
+      "visible":true
    },
    {
       "id":"90",
@@ -111,31 +111,31 @@
       "id":"110",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/fortnite/1.png",
       "name":"Fortnite",
-      "visible":false
+      "visible":true
    },
    {
       "id":"120",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/freefire/1.png",
       "name":"Freefire",
-      "visible":false
+      "visible":true
    },
     {
       "id":"130",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/juegos1/1.png",
       "name":"Juegos 1",
-      "visible":false
+      "visible":true
    },
    {
       "id":"140",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/juegos2/1.png",
       "name":"Juegos 2",
-      "visible":false
+      "visible":true
    },
    {
       "id":"150",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/juegos3/1.png",
       "name":"Juegos 3",
-      "visible":false
+      "visible":true
    },
    {
       "id":"160",
@@ -165,13 +165,13 @@
       "id":"200",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/movies1/1.png",
       "name":"Movies 1",
-      "visible":false
+      "visible":true
    },
    {
       "id":"210",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/movies2/1.png",
       "name":"Movies 2",
-      "visible":false
+      "visible":true
    },
    {
       "id":"220",
@@ -189,42 +189,42 @@
       "id":"240",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/series1/1.png",
       "name":"Series 1",
-      "visible":false
+      "visible":true
    },
    {
       "id":"250",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/series2/1.png",
       "name":"Series 2",
-      "visible":false
+      "visible":true
    },
    {
       "id":"260",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/series3/1.png",
       "name":"Series 3",
-      "visible":false
+      "visible":true
    },
       {
       "id":"270",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/simpsons1/1.png",
       "name":"Simpsons 1",
-      "visible":false
+      "visible":true
    },
    {
       "id":"280",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/simpsons2/1.png",
       "name":"Simpsons 2",
-      "visible":false
+      "visible":true
    },
    {
       "id":"290",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/trump/1.png",
       "name":"Trump",
-      "visible":false
+      "visible":true
    },
    {
       "id":"300",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/youtubers/1.png",
       "name":"Youtubers",
-      "visible":false
+      "visible":true
    }
 ]
