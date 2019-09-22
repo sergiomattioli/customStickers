@@ -119,6 +119,12 @@
       "name":"Freefire",
       "visible":true
    },
+   {
+      "id":"121",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/goodmorning/1.png",
+      "name":"Good Morning",
+      "visible":true
+   },
     {
       "id":"130",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/juegos1/1.png",
