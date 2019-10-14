@@ -36,6 +36,18 @@
       "visible":true
    },
    {
+      "id":"64",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/deportistas1/1.png",
+      "name":"Deportistas 1",
+      "visible":true
+   },
+   {
+      "id":"65",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/deportistas2/1.png",
+      "name":"Deportistas 2",
+      "visible":true
+   },
+   {
       "id":"70",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/dialogs/1.png",
       "name":"Dialogs",
@@ -56,7 +68,7 @@
    {
       "id":"82",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/dibujos3/1.png",
-      "name":"Dibujos 3",   
+      "name":"Dibujos 3",
       "visible":true
    },
    {
@@ -98,7 +110,7 @@
       {
       "id":"102",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/emojis3/1.png",
-      "name":"Emojis 3",    
+      "name":"Emojis 3",
       "visible":true
    },
    {
@@ -189,6 +201,24 @@
       "id":"230",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/politics/1.png",
       "name":"Politics",
+      "visible":true
+   },
+   {
+      "id":"233",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/rickandmorty1/1.png",
+      "name":"Religion",
+      "visible":true
+   },
+   {
+      "id":"234",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/rickandmorty1/1.png",
+      "name":"Rick and Morty 1",
+      "visible":true
+   },
+   {
+      "id":"235",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/rickandmorty2/1.png",
+      "name":"Rick and Morty 2",
       "visible":true
    },
    {
