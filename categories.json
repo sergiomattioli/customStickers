@@ -12,6 +12,12 @@
       "visible":true
    },
    {
+      "id":"25",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/badpeople/1.png",
+      "name":"Bad People",
+      "visible":true
+   },
+   {
       "id":"30",
       "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/cats/1.png",
       "name":"Cats",
